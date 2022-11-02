@@ -1,4 +1,2 @@
-# projeto1-android-cursoemvideo
+# projeto-android-cursoemvideo
 Projeto de página estática do módulo 2 do canal no youtube Curso em Vídeo
-
-Demo: https://projeto-android-cursoemvideo.netlify.app/
